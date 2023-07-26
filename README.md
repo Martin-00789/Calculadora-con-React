@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Calculadora con React
+Este proyecto es una calculadora simple desarrollada con React. Permite a los usuarios realizar operaciones matemáticas básicas, como suma, resta, multiplicación y división.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Características
+• Operaciones matemáticas básicas: La calculadora admite operaciones de suma, resta, multiplicación y división.  
+• Interfaz intuitiva: Los usuarios pueden hacer clic en los botones numéricos y de operación para interactuar con la calculadora.  
+• Resultado en tiempo real: El resultado de las operaciones se muestra en tiempo real mientras se ingresan los valores.  
+• Historial de operaciones: La calculadora registra un historial de las últimas operaciones realizadas.  
 
-## Available Scripts
+## Tecnologías utilizadas
+• React: se utiliza para construir la interfaz de usuario y gestionar la lógica de la calculadora.  
+• JavaScript: se utiliza para implementar las operaciones matemáticas y el manejo de eventos.  
+• HTML: se utiliza para renderizar la estructura de los componentes de React en el navegador.  
+• CSS: se utiliza para dar estilo y diseño a la calculadora.  
 
-In the project directory, you can run:
+## Instrucciones de instalación
 
-### `npm start`
+1. Clona este repositorio en tu máquina local:  
+git clone https://github.com/Martin-00789/Calculadora-con-React  
+2. Instala las dependencias del proyecto:  
+ cd Calculadora-con-React  
+ npm install  
+3. Inicia la aplicación:  
+ npm start  
+4.  Abre la aplicación en tu navegador web en la dirección http://localhost:3000.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Uso
+1. Abre la calculadora en tu navegador.  
+2. Haz clic en los botones numéricos para ingresar los valores de las operaciones.  
+3. Haz clic en los botones de operación para seleccionar la operación deseada.  
+4. El resultado se mostrará automáticamente en la pantalla de la calculadora.  
+5. Para realizar otra operación, simplemente continúa haciendo clic en los botones numéricos y de operación.  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribución  
+¡Siéntete libre de contribuir a este proyecto! Puedes abrir un "issue" para informar de errores o sugerir mejoras. También puedes enviar "pull requests" para añadir nuevas características o solucionar problemas existentes.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Autor  
+### Martin Fabian Elias
